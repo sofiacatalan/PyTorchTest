@@ -1,3 +1,5 @@
 __pycache__/
-
-PennFundanPed/
+.DS_Store
+PennFudanPed/
+outputModels/
+outputFiles/
